@@ -26,7 +26,7 @@
     "browserlist": "^1.0.1",
     "canvas-size": "^1.2.6",
     "dark-mode-toggle": "^0.14.6",
-    "esm-potrace-wasm": "^0.2.1",
+    "esm-potrace-wasm": "^0.4.0",
     "idb-keyval": "^6.2.1",
     "module-workers-polyfill": "^0.3.2",
     "pinch-zoom-element": "^1.1.1",
