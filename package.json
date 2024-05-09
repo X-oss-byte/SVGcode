@@ -37,7 +37,7 @@
     "eslint": "^8.49.0",
     "eslint-config-google": "^0.14.0",
     "eslint-config-prettier": "^9.0.0",
-    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-n": "^14.0.0",
     "find-unused-exports": "^5.0.0",
     "https-localhost": "^4.7.1",
     "napa": "^3.0.0",
